@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
-    "@electron-toolkit/utils": "^3.0.0"
+    "@electron-toolkit/utils": "^3.0.0",
+    "Prettier": "npm:prettier@^3.3.3"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config": "^1.0.2",
